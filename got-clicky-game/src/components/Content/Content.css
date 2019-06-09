@@ -1,4 +1,5 @@
 .content {
+    background-color: grey;
     display: -ms-flexbox;
     display: flex;
     min-height: 80%;
