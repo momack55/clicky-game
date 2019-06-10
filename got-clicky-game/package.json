@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/momack55/News-Scraper.git"
+    "url": "git+https://github.com/momack55/clicky-game.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/momack55/News-Scraper/issues"
+    "url": "https://github.com/momack55/clicky-game/issues"
   },
-  "homepage": "https://github.com/momack55/News-Scraper#readme",
+  "homepage": "https://github.com/momack55/clicky-game#readme",
   "eslintConfig": {
     "extends": "react-app"
   },
