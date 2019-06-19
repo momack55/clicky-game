@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/momack55/clicky-game/issues"
   },
-  "homepage": "https://github.com/momack55/clicky-game#readme",
+  "homepage": "https://github.com/momack55/clicky-game",
   "eslintConfig": {
     "extends": "react-app"
   },
